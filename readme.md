@@ -14,6 +14,32 @@ A lightweight zsh script that lets you interactively pick which SSH key to use i
 
 ---
 
+## Installation
+
+Choose one of the following ways to get the script:
+
+### Option A — Clone the repository
+
+```bash
+git clone https://github.com/KuyaGit/ssh-key-selector.git
+cd ssh-selector
+```
+
+```bash
+git clone git@github.com:KuyaGit/ssh-key-selector.git
+cd ssh-selector
+```
+
+### Option B — Download the script directly
+
+```bash
+curl -O https://raw.githubusercontent.com/your-username/ssh-selector/main/ssh-select.sh
+```
+
+> Replace `your-username` with the actual GitHub username / org that hosts this repo.
+
+---
+
 ## Setup
 
 ### macOS / Linux
